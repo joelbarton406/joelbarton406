@@ -1,6 +1,6 @@
-### Hi there, I'm Joel 👋
+### Howdy, I'm Joel 🤠
 
-🧑🏻‍💻 I'm a software engineer. 
+🧑🏻‍💻 I code. 
 
 🌱 Most recently, I built Harrier, an open-source framework for accelerating CI/CD builds in GitHub Actions workflows by automating the deployment of an alternative runner infrastructure with a dedicated cache solution into users’ AWS environment. 
 
